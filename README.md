@@ -26,8 +26,8 @@ Step 8: Open a browser and go to URL “http://localhost/placement/”.
 
 Step 9: Explore. Login from the User’s login side. Just provide the Admin’s login detail, it will redirect you to Admin panel.
 
-
 OUTPUT SCREENSHOTS:
+
 ![Capture](https://user-images.githubusercontent.com/124235201/216818540-7c8c8d84-1c4c-4ce3-b2ad-bcedc6434e55.JPG)
 ![Capture](https://user-images.githubusercontent.com/124235201/216818578-7baf37a9-35d5-4266-98ae-9f149a26ea2c.JPG)
 ![Capture](https://user-images.githubusercontent.com/124235201/216818627-7a39e343-5806-4b62-b3fe-52ff5f8f6c6e.JPG)
