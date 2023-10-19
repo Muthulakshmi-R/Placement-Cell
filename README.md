@@ -1,6 +1,6 @@
 # Placement-Cell
 Placement Management System 
-A Placement Management System In PHP is aimed at developing an online application for the Training and Placement. The Placement Management System Using PHP is an online application that can be accessed throughout the organization and outside as well with proper login provided.
+A Placement Management System is aimed at developing an online application for the Training and Placement. The Placement Management System is an online application that can be accessed throughout the organization and outside as well with proper login provided.
 
 Components 
 Front end: HTML,CSS,Javascript
